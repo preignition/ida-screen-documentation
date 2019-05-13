@@ -1,8 +1,7 @@
 # Title 
 **bold** 
 
-Typing new test
-
+Typing new text.  Jerry, jerry, jerry
 
 Test bigger
 Test bigger
