@@ -1,12 +1,7 @@
 # Title 
 **bold** 
-ff
-<paper-button raised>Button </paper-button>
 
-
-Test bigger
-Test bigger
-Test bigger
+Typing new test
 
 
 Test bigger
