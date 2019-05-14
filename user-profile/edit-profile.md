@@ -1,2 +1,2 @@
 # Edit my profile 
-Move the slider to begin editing
+Move the slider to begin editing your profile
