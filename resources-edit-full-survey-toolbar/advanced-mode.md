@@ -3,5 +3,8 @@
 Advanced features include:
 -  Applying automated scoring to questions
 -  Applying logic.  For instance to show or hide a question depending on the answer to another question
+-  Defining how a survey is reviewed
+
+Click the toggle to find out more about advanced features.
  
  
