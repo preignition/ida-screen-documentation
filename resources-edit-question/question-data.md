@@ -1,2 +1,6 @@
 # Label 
-This is the title of the survey question.  Aim to keep it short and concise.  You will be able to provide guidance on the 'placeholder' section.
+This is the name of the question as it will appear in your survey.  Aim to keep it short and concise.  You will be able to provide additional guidance on what you are looking for in the 'placeholder' section.
+
+eg.
+- Label:  Location
+- Placeholder:  Where are your main business operations located?
