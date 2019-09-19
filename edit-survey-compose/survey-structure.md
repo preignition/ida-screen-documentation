@@ -1,2 +1,2 @@
-# Survey Strcuture 
+# Survey Structure 
  Documentation
