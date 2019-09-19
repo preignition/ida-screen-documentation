@@ -1,2 +1,2 @@
-# Remove
-Not sure which field this help box is referring to.  Suggest we remove.
+# Main/ Options
+The main field enables you 
