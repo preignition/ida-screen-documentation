@@ -1,2 +1,2 @@
 # Side Menu 
-This menu 
+The side menu provides some options 
