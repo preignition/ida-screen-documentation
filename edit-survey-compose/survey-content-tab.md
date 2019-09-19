@@ -1,2 +1,2 @@
-# Main/ Options
-The main field enables you 
+# Options
+Suggest that this should only highlight 'options'. 
