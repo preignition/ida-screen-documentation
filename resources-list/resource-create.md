@@ -1,2 +1,2 @@
-# Create New Survey
-Click on this button to create a new survey
+# Create New 
+Click on this button to create a new resource
